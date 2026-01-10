@@ -5,7 +5,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-hena1ok-181717?style=flat&logo=github)](https://github.com/hena1ok)
 [![Email](https://img.shields.io/badge/Email-henok.yizelkal%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:henok.yizelkal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/henok-yizelkal-49053a3a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/henok-yizelkal-49053a3a4)
+
 
 ---
 
