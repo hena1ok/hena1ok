@@ -128,11 +128,6 @@ Machine learning agent controlling Pac-Man using a perceptron-based decision mod
   <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hena1ok&theme=default" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hena1ok&theme=default" alt="Top Languages by Commit" />
-</p>
-
 --
 
 ## 🤝 Let’s Connect
