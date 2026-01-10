@@ -5,10 +5,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-hena1ok-181717?style=for-the-badge&logo=github)](https://github.com/hena1ok)
 [![Email](https://img.shields.io/badge/Email-henyize%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:henyize@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henok-yizelkal-49053a3a4)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Hena-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Hena)
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Software Engineer specializing in **full-stack web development**, **scalable backend systems**, and **applied AI solutions**. I build robust, maintainable, and user-centric systems that solve real-world problems.
 
@@ -17,7 +18,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages
 
@@ -58,7 +59,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Software Engineer — Guba Tech** _(Dec 2025 – Present)_
 
@@ -74,7 +75,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project                                                                                      | Description                                          | Tech Stack                                   |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
@@ -84,21 +85,28 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 ---
 
-### � GitHub Activity
+### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" />
 </p>
+
+### Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> To display WakaTime stats, set up [waka-readme](https://github.com/athul/waka-readme) GitHub Action
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
 - **Python for Everybody** — University of Michigan (Coursera)
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm actively seeking opportunities to contribute to **high-impact software teams**, research-driven environments, and innovative technology initiatives.
 
