@@ -91,10 +91,12 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
   <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### Weekly Coding Stats
+### Coding Stats
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Hena/41bfec89-5655-4152-a2be-9708b8aeba6d.svg" alt="WakaTime Languages" />
+  <a href="https://wakatime.com/@Hena">
+    <img src="https://wakatime.com/badge/user/41bfec89-5655-4152-a2be-9708b8aeba6d.svg?style=for-the-badge" alt="Total Coding Time" />
+  </a>
 </p>
 
 ---
