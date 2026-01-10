@@ -1,28 +1,27 @@
-# Henok Yizelkal
+# Henok Yizelkal 👋
 
 **Software Engineer** | Full-Stack Systems | Applied AI  
 📍 Addis Ababa, Ethiopia
 
 [![GitHub](https://img.shields.io/badge/GitHub-hena1ok-181717?style=flat&logo=github)](https://github.com/hena1ok)
-[![Email](https://img.shields.io/badge/Email-henok.yizelkal%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:henokyizelkal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-henyize%40outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:henyize@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/henok-yizelkal-49053a3a4)
 
 ---
 
 ## About Me
 
-Software Engineer with strong experience in **full-stack web development**, **scalable backend systems**, and **applied AI solutions**.  
-I focus on building robust, maintainable, and user-centric systems that solve real-world problems.
+Software Engineer specializing in **full-stack web development**, **scalable backend systems**, and **applied AI solutions**.  
+I build robust, maintainable, and user-centric systems that solve real-world problems.
 
-🎓 **BSc in Software Engineering (Honors, Distinction)**  
-HiLCoE School of Computer Science and Technology — 2025
+🎓 **BSc in Software Engineering (Honors, Distinction)** — HiLCoE School of Computer Science and Technology, 2025
 
 ---
 
 ## 🎯 Current Focus
 
-- Designing scalable backend services using Spring Boot and NestJS
-- Applying machine learning and AI techniques to production systems
+- Building scalable backend services with Spring Boot and NestJS
+- Developing AI-driven solutions for real-world applications
 - Preparing for international graduate programs and research-driven roles
 
 ---
@@ -43,7 +42,7 @@ React · Next.js · HTML · CSS
 
 ### Databases
 
-PostgreSQL · MySQL
+PostgreSQL (data modeling, optimization) · MySQL
 
 ### Testing & Quality
 
@@ -51,7 +50,7 @@ JUnit · Mockito · Selenium · Test Automation
 
 ### DevOps & Deployment
 
-Docker · CI/CD · Linux · AWS / DigitalOcean
+Docker · CI/CD (production pipelines) · Linux · AWS / DigitalOcean
 
 ### Software Engineering Concepts
 
@@ -65,46 +64,36 @@ System Design · Scalable Architectures · Secure Application Development · Cle
 
 _Dec 2025 – Present_
 
-- Developing and maintaining a production-grade full-stack platform supporting organizational workflows
-- Building responsive, accessible UI components to improve user experience
-- Implementing Docker-based microservices architecture to improve deployment reliability and scalability
+- Developed and maintained a production-grade full-stack platform
+- Built responsive, accessible UI components to improve user experience
+- Implemented Docker-based microservices architecture for reliable deployment
 
 ### Software Engineering Intern — Government Digital Systems (MinT)
 
 _Aug 2024 – Sep 2024_
 
-- Built core application modules using React, NestJS, and PostgreSQL
-- Developed a multilingual LLM-based chatbot with speech-to-text and text-to-speech capabilities
+- Built core modules using React, NestJS, and PostgreSQL
+- Developed multilingual LLM-based chatbot with STT/TTS capabilities
 - Improved deployment efficiency through backend containerization
 
 ---
 
 ## 🚀 Featured Projects
 
-### Automated Student Verification & Exam Attendance System
+### [Automated Student Verification & Exam Attendance System](https://github.com/hena1ok/Automated-Student-Verification)
 
-🔗 https://github.com/hena1ok/Automated-Student-Verification
+Secure identity verification and exam attendance tracking system with liveness detection  
+`Spring Boot · React · PostgreSQL · Python Flask · Dlib`
 
-Secure identity verification and exam attendance tracking system with liveness detection.  
-**Stack:** Spring Boot · React · PostgreSQL · Python Flask · Dlib
+### [Online Bank Management System](https://github.com/hena1ok/bank-management-system)
 
----
+Role-based banking application with unit and end-to-end testing  
+`Spring Boot · React · JUnit · Mockito · Selenium`
 
-### Online Bank Management System
+### [PacMan Perceptron AI](https://github.com/hena1ok/PacMan_Perceptron)
 
-🔗 https://github.com/hena1ok/bank-management-system
-
-Role-based banking application with strong emphasis on unit and end-to-end testing.  
-**Stack:** Spring Boot · React · JUnit · Mockito · Selenium
-
----
-
-### PacMan Perceptron AI
-
-🔗 https://github.com/hena1ok/PacMan_Perceptron
-
-Machine learning agent controlling Pac-Man using a perceptron-based decision model.  
-**Stack:** Python · Machine Learning
+Machine learning agent controlling Pac-Man using a perceptron model  
+`Python · Machine Learning`
 
 ---
 
@@ -117,7 +106,7 @@ Machine learning agent controlling Pac-Man using a perceptron-based decision mod
 ## 🌍 Open to Collaboration
 
 - Backend and full-stack system development
-- AI-driven platforms and intelligent automation
+- AI-driven platforms and automation solutions
 - Academic, research-oriented, or open-source software projects
 
 ---
@@ -125,17 +114,20 @@ Machine learning agent controlling Pac-Man using a perceptron-based decision mod
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hena1ok&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hena1ok&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
+### 🖥 Top Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hena1ok&layout=compact&langs_count=6&hide_border=true" alt="Top Languages" />
 </p>
 
---
+---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I am actively seeking opportunities to contribute to **high-impact engineering teams**, research-driven environments, and innovative technology initiatives.
+I'm actively seeking opportunities to contribute to **high-impact software teams**, research-driven environments, and innovative technology initiatives.
 
-📧 **henokyizelkal@gmail.com**
+📧 **henyize@outlook.com**
