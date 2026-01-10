@@ -95,7 +95,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 <p align="center">
   <a href="https://wakatime.com/@Hena">
-    <img src="https://wakatime.com/badge/user/Hena.svg?style=for-the-badge" alt="Total Coding Time" />
+    <img src="https://wakatime.com/badge/user/2b77c06d-6f32-4a66-a323-f11f7811cbc1.svg?style=for-the-badge" alt="Total time coded since Jan 10 2026" />
   </a>
 </p>
 
