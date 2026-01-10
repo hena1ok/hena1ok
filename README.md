@@ -94,7 +94,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 ### Weekly Coding Stats
 
 <p align="center">
-  <a href="https://wakatime.com/@Hena"><img src="https://wakatime.com/badge/user/Hena.svg" alt="WakaTime Stats" /></a>
+  <img src="https://wakatime.com/share/@Hena/41bfec89-5655-4152-a2be-9708b8aeba6d.svg" alt="WakaTime Languages" />
 </p>
 
 ---
