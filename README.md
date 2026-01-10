@@ -4,7 +4,7 @@
 📍 Addis Ababa, Ethiopia
 
 [![GitHub](https://img.shields.io/badge/GitHub-hena1ok-181717?style=flat&logo=github)](https://github.com/hena1ok)
-[![Email](https://img.shields.io/badge/Email-henok.yizelkal%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:henok.yizelkal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-henok.yizelkal%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:henokyizelkal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/henok-yizelkal-49053a3a4)
 
 
@@ -28,19 +28,29 @@ HiLCoE School of Computer Science and Technology — 2025
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Technical Expertise
 
-**Languages**  
-Java · Python · JavaScript · C# · C++ · SQL · HTML · CSS  
+### Core Languages
+Java · Python · JavaScript · SQL
 
-**Frameworks & Libraries**  
-Spring Boot · React · Next.js · NestJS · Flask · JUnit · Mockito · Selenium  
+### Backend & Systems
+Spring Boot · NestJS · Flask · REST APIs · Microservices Architecture
 
-**Databases & Platforms**  
-PostgreSQL · MySQL · Docker · Git/GitHub · REST APIs · Liferay · AWS / DigitalOcean  
+### Frontend
+React · Next.js · HTML · CSS
 
-**Core Concepts**  
-Microservices · Test Automation · CI/CD · Cloud Deployment · Secure System Design  
+### Databases
+PostgreSQL · MySQL
+
+### Testing & Quality
+JUnit · Mockito · Selenium · Test Automation
+
+### DevOps & Deployment
+Docker · CI/CD · Linux · AWS / DigitalOcean
+
+### Software Engineering Concepts
+System Design · Scalable Architectures · Secure Application Development · Clean Code · Agile / Scrum
+  
 
 ---
 
@@ -105,14 +115,23 @@ Machine learning agent controlling Pac-Man using a perceptron-based decision mod
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hena1ok&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hena1ok&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hena1ok&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+--
 
 ## 🤝 Let’s Connect
 
 I am actively seeking opportunities to contribute to **high-impact engineering teams**, research-driven environments, and innovative technology initiatives.
 
-📧 **henok.yizelkal@gmail.com**
+📧 **henokyizelkal@gmail.com**
