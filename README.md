@@ -118,8 +118,6 @@ Machine learning agent controlling Pac-Man using a perceptron model
   <img src="https://streak-stats.demolab.com?user=hena1ok&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-### 🖥 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hena1ok&layout=compact&langs_count=6&hide_border=true" alt="Top Languages" />
 </p>
