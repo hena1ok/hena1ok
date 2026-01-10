@@ -93,10 +93,9 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 
 ### Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> To display WakaTime stats, set up [waka-readme](https://github.com/athul/waka-readme) GitHub Action
+<p align="center">
+  <a href="https://wakatime.com/@Hena"><img src="https://wakatime.com/badge/user/Hena.svg" alt="WakaTime Stats" /></a>
+</p>
 
 ---
 
