@@ -87,9 +87,7 @@ Software Engineer specializing in **full-stack web development**, **scalable bac
 ### GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hena1ok&theme=default&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hena1ok&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### Coding Stats
